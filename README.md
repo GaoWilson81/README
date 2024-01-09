@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> My name is Wilson Gao. I'm an undergraduate student studying Computer Science at Georgia Institute of Technology.
 <img src=https://github.com/GaoWilson81/GaoWilson81/assets/65750807/57060f2f-fd95-4741-8674-476dfa16b3e9" width="20px"/>
-<br> You can find my completed personal projects here, however, in progress works will remain hidden.
+<br> You can find my completed projects here. Course projects will remain hidden due to plagarism purposes.
 <br>
 <br>
 More about me: I love video games and it's my goal to create several video games on my own. 
