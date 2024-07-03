@@ -1,6 +1,6 @@
 # About me
 ---
-
+- **Portfolio**: [View](https://wg-portfolio.web.app/)
 <h1>
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
