@@ -1,6 +1,6 @@
 # About me
 ---
-- **Portfolio**: [View](https://wg-portfolio.web.app/)
+
 <h1>
   Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -33,6 +33,5 @@ More about me: I love video games and it's my goal to create several video games
 ---
 ### :hammer_and_wrench: Languages:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  - Java, Python, C, C++, JavaScript, Assembly, SQL, HTML, CSS, Typescript
 </div>
