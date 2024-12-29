@@ -17,12 +17,12 @@ More about me: I love video games and it's my goal to create several video games
 
 
 1.  (Completed) Projects:
-    - Create-X Ideation form | Java, JavaFX
-    - Frogger Game | Java, Android Studio
-    - Package Delivery management | MySQL, SQL
-    - EPIC Patient Dashboard | Spring Boot, Next.js, TypeScript, Tailwind CSS, Bootstrap, Figma, Jira, Node.js, React.js
-    - Network | C, Docker
     - Buckets | D3.js, HTML, CSS, Javascript 
+    - Network | C, Docker
+    - EPIC Patient Dashboard | Spring Boot, Next.js, TypeScript, Tailwind CSS, Bootstrap, Figma, Jira, Node.js, React.js
+    - Package Delivery management | MySQL, SQL
+    - Frogger Game | Java, Android Studio
+    - Create-X Ideation form | Java, JavaFX
 
 2.  (Completed) Courses:
     - Object Oriented Programming
